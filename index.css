@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+    margin: 0;
+}
+.bg{
+    background-color: rgb(214, 36, 175);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.form{
+    margin: 100px;
+    background-color: white;
+    height: 80%;
+    width: 30%;
+    border-radius: 5px;
+    padding: 40px;
+}
+.h1{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.button1{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 30px;
+    height:50px;
+    width: 50%;
+    color: white;
+    background-color: rgb(236, 18, 153);
+    border-radius: 5px;
+    border-color: transparent;
+ 
+}
+.button{
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 20px;
+    height:50px;
+    width: 50%;
+    color: black;
+    border-radius: 5px;
+    margin-left: 0px;
+    border-color: transparent;
+    
+}
+.input{
+    height: 50px;   
+    margin-top: 40px;
+    width: 100%;
+}
+input::placeholder{
+   
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 20px;
+}
+.p{
+    color: rgb(231, 15, 166);
+    font-size: 20px;
+    margin-top: 5px;
+    font-family: "Roboto";
+}
+.button2{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 30px;
+    height:50px;
+    width: 100%;
+    color: white;
+    background-color: rgb(236, 18, 153);
+    border-radius: 5px;
+    border-color: transparent;
+ 
+}
+.end{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.signup{
+    color: rgb(199, 17, 105);
+
+}
